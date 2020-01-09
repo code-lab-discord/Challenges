@@ -1,0 +1,1 @@
+print(f"Output: {str(input('Input: '))[::-1]}")
